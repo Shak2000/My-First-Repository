@@ -1,1 +1,2 @@
-# Hello Sugar Labs!
+# My first repository
+# Hello Sugar Labs
